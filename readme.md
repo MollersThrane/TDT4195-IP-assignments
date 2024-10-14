@@ -1,6 +1,6 @@
 # TDT4195 - Visual Computing Fundamentals
 
-This is the repository for the assignments in TDT4195. Originally written by Håkon Hukkelas. Maintained and updated by Michael Staff Larsen.
+This is the repository for the assignments in TDT4195. Originally written by Håkon Hukkelas. Maintained and updated by Michael Staff Larsen. Tasks solved by Tobias Thrane (me).
 
 ## Overview
 
